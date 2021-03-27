@@ -102,13 +102,6 @@ public class RockPaperScissors {
 		
 		return null;	
 	}
-
-/* ************************************************************************************
-
-You do not need to look at the code below this point. If you are curious, however, feel 
-free. Do not change anything below this point though or your own code might not work.
-
-*/
 	
 	private final static int IROCK = 1;
 	private final static int IPAPER = 2;
